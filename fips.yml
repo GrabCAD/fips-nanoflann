@@ -1,0 +1,7 @@
+#
+# fips-nanoflann
+#
+---
+exports:
+    header-dirs: [nanoflann/include]
+
